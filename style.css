@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=Noto+Serif&display=swap');
+
+html {
+    scroll-behavior: smooth;
+}
+
+h1 {
+    font-family: 'Noto Serif', serif;
+}
+
+p {
+    font-family: 'Noto Sans', sans-serif;
+}
+
