@@ -1,0 +1,9 @@
+{
+
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+
+  "Domain": "rfccp.com",
+
+  "Id": "ce43f616-5116-4013-bbe8-9180637e97e9"
+
+}
